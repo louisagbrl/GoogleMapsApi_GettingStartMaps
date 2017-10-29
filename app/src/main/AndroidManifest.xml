@@ -13,8 +13,8 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
         <meta-data
-            android:name="com.google.android.geo.API.KEY"
-            android:value="AIzaSyDpUfCgr2_m-IUn-uN6Czgpod22DimG-j8" />
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCxWUkVOvNWo3qnacRZ_3X2sBfgvk9M1Ig" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
